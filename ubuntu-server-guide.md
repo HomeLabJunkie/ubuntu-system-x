@@ -808,5 +808,4 @@ This guide is provided as-is for personal and educational use.
 ---
 
 **Author**: Jeff  
-**Last Updated**: January 18, 2026  
-**Repository**: https://github.com/yourusername/ubuntu-server-zfs-guide
+**Last Updated**: January 18, 2026 
